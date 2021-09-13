@@ -1,0 +1,20 @@
+Team meeting held on 09/12/2020 at Skype in online
+
+Minutes:158
+
+Agenda:
+ 1.- Each member share their code for the linked list
+ 2.- Choose which one to implement and correct
+ 3.- Solving of code problems when compiling, if there are
+
+================================================================================
+
+Galvez code is a replica of what done in class by professor Boni (see: https://github.com/bonigarcia/c-examples/blob/master/dynamic_mem/linked_list.c) and we decided to use it as it works fine and fits the criteria
+The codes gives several errors and we realize the list has to be initialice, after that the code works just fine
+For next meeting each will bring a code for the showdatoonenetwork and sort features
+
+================================================================================
+
+Action Items:
+
+*  Search for a way of the remaining features(both)
